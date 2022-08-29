@@ -1,7 +1,13 @@
+._*
 .DS_Store
+.markdownlint.yaml
+.shellcheckrc
+.trunk/
+.vscode
 *.cer
 *.crt
+*.der
 *.key
 *.pem
-*.der
+**/temp
 id_*
